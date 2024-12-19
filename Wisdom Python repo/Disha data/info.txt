@@ -1,0 +1,1 @@
+To make the data from the IMU comply with measurements axis of apple watch i flipped the Y axis and multiplied the acceleration measurements by 9.81 
